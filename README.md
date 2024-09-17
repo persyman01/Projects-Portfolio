@@ -5,6 +5,7 @@
 ## 1. School Management System ##
 Code folder contains the HTML files and CSS files
 It also contains backend files to connect to DB
+This highlights my earlier programming skills and SQL
 
 
 ## 2 Covid 19 Project ##
