@@ -9,7 +9,7 @@ This highlights my earlier programming skills and SQL
 
 
 ## 2 Covid 19 Project ##
-The SQL file- Covid 19 Data Exploration Final-contains some skills to explore the data 
+The SQL file- Covid 19 Data Exploration Final-contains some skills to explore the data.
 Skills used: Joins,  Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
